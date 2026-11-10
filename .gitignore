@@ -1,0 +1,6 @@
+# 本地保留但不发布到 GitHub 的文件
+tests/
+favorites.json
+styles-backup-*.json
+__pycache__/
+*.pyc

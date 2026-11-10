@@ -1,0 +1,18 @@
+[project]
+name = "comfyui-canvas-style-prompt"
+description = "Pick one of 74 built-in visual styles from a dropdown; the node concatenates the style paragraph with your subject prompt. Pure string join, no model inference."
+version = "1.0.0"
+license = { file = "LICENSE" }
+dependencies = []
+classifiers = [
+    "License :: OSI Approved :: MIT License",
+]
+
+[project.urls]
+Repository = "https://github.com/YOUR_USERNAME/comfyui-canvas-style-prompt"
+
+[tool.comfyui]
+display_name = "Canvas Style Prompt"
+publisher_id = "YOUR-PRODUCT-ID"
+repository = "https://github.com/YOUR_USERNAME/comfyui-canvas-style-prompt"
+description = "74 built-in visual styles via dropdown. Concatenates the style paragraph with your prompt, no inference."
