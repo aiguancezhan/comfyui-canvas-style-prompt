@@ -9,10 +9,10 @@ classifiers = [
 ]
 
 [project.urls]
-Repository = "https://github.com/YOUR_USERNAME/comfyui-canvas-style-prompt"
+Repository = "https://github.com/guqiong96/comfyui-canvas-style-prompt"
 
 [tool.comfyui]
 display_name = "Canvas Style Prompt"
 publisher_id = "YOUR-PRODUCT-ID"
-repository = "https://github.com/YOUR_USERNAME/comfyui-canvas-style-prompt"
+repository = "https://github.com/guqiong96/comfyui-canvas-style-prompt"
 description = "74 built-in visual styles via dropdown. Concatenates the style paragraph with your prompt, no inference."
